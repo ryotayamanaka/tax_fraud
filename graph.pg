@@ -84,7 +84,7 @@
 222 type:Income amount:1500000 from:"Govt High School"
 
 121 -> 321 :has_asset since:2015
-421 type:House size_yard:100 location:"Bahria Town"
+321 type:Property subtype:House size_yard:100 location:"Bahria Town"
 
 124 -> 621 :goes_school
 621 type:School name:"Bahria University" fee:200000
